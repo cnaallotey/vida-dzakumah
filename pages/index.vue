@@ -7,7 +7,7 @@
         <img src="/images/name.svg" class="w-80 md:w-[500px] h-fit" alt="title">
         <div class="flex flex-col w-full md:flex-row items-center gap-4">
         <NuxtLink to="/brochure" class=" flex rounded-md w-full md:px-32 md:w-fit items-center justify-center h-14 md:h-20 md:text-xl bg-white text-[#E7AF3E] hover:bg-white/80">View Brochure</NuxtLink>
-        <a href="https://drive.google.com/uc?export=download&id=1_HJn2MMI4gcTM79ml5xJWvIomVrIbnLT" target="_blank"  class="w-full md:px-32 md:w-fit flex items-center justify-center h-14 rounded-md text-white font-medium md:h-20 md:text-xl bg-[#E7AF3E] hover:bg-[#E7AF3E]/80">Download Brochure</a>
+        <a href="https://drive.google.com/uc?export=download&id=1_HJn2MMI4gcTM79ml5xJWvIomVrIbnLT" class="w-full md:px-32 md:w-fit flex items-center justify-center h-14 rounded-md text-white font-medium md:h-20 md:text-xl bg-[#E7AF3E] hover:bg-[#E7AF3E]/80">Download Brochure</a>
         </div>
         </div>
     </div>

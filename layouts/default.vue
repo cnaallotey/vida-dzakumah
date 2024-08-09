@@ -16,7 +16,7 @@ const meta = {
 
 useHead({
   link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/images/favicon-cert.svg' }
+    { rel: 'icon', type: 'image/x-icon', href: '/images/oma.ico' }
   ]
 })
 </script>
