@@ -1,0 +1,17 @@
+<template>
+  <div>
+    <NuxtRouteAnnouncer />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </div>
+</template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: black;
+}
+</style>
